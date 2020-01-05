@@ -2,5 +2,5 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Print("12345");
+	fmt.Print("123456");
 }
