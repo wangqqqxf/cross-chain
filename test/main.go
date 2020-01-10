@@ -1,6 +1,7 @@
 package main
+
 import "fmt"
 
-func main(){
-	fmt.Print("123456");
+func main() {
+	fmt.Print("1234561")
 }
